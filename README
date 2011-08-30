@@ -1,0 +1,58 @@
+SFPP3 = SAFE FOOD PACKAGING PORTAL version 3
+A framework to deploy migration simulation and decision tools.
+
+This page describes the principles and philosophy of the SFPP3 framework.
+
+SFPP3 is developed and distributed by INRA.
+
+SFPP3 = powerfull framework distribuable to end users
+
+The SFPP3 framework is part of the effort at INRA to facilitate the distribution of industrial decision tools written in high-end mathematical language (C++, Matlab, Scilab) without limiting third-party license restrictions and with minimal rewriting. Contrary to prior versions of SFPP, whiwh were only available on-line, SFFP3 can be deployed to any company or laboratory and on major operating systems (Windows XP/2003/Vista/7 32/64 bits and Linux 32/64 bits). SFPP3 computational engines include more than 40 different primitives to solve partial differential equations, to perform Monte-Carlo and pseudo Monte-Carlo simulation, molecular modellng, 2D/3D rendering with transparency, statistical analysis... All these computational engines can be easily connected to local or remote databases.
+SFPP3 is a client/server application
+
+Applications compatible with the SFPP3 framework, so-called SFPP3 applications, are available through a Web interface. As a result, they can executed as standalone or remote applications, over a local area network or even over internet. Using group policy, a same project can be shared from different places by several users. Results can be exported in several formats including HTML, images, PDF and native XLS (when Excel is also installed on the server).
+SFPP3 relies on WEB standards: HTML, XML, SOAP protocol
+
+As SFPP3 is HTML-centric, a new industrial application (which corresponds to a specific need) can be created by any web-designer with basic knowledge of HTML, CSS and Javascript. Best experiences are obtained with modern web browsers using the last layout engine and application framework (Firefox 3.x, Google Chrome 2.x, Safari 4.x). Despite its limited support for open web standards, Internet Explorer 7 and 8 are supported (with less performance).
+SFFP3 traceability of dataflow and simulations
+
+By design, the SFPP3 framework complies with strong requirements of traceability. All inputs and outputs are uniquely stored and chronologically interalated. A complementary form of data integration deals with reuse across simulation models themselves to create templates.
+CONDITION OF DISTRIBUTION OF SFPP3
+
+The rapid delivery of decision tools demands a framework of principles and supporting documents that promotes sharing and appropriately protects the intellectual property rights of the creators while permitting commercial development when optimal to bring products and tools into use for the public good.
+Academics are always granted of a free software licence. When modified versions of SFPP3 are distributed, they must be distributed under the same terms as the original one, in particular with all its documentation included. Besides, the new license and the documentation must preserve the name of the author and must recognize that the original SFPP3 was developed and funded by INRA (The french National Institute for Agricultural Research). The name of INRA cannot be used to promote derivative products based on SFPP3 without permission.
+Industry and private companies can get a non-exclusive license to use one or more copies of SFPP3 from INRA or from a third party. By default, private companies do not have the permission to sublicense or to redistribute SFPP3 without a specific agreement with INRA or with the author. In particular, there is a specific concern of INRA to protect intellectual property and to provide the incentives necessary to fund further research and to invest in the significant costs associated with bringing robust software to the general marketplace.
+WARRANTY DISCLAIMER
+
+THE SFPP3 FRAMEWORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SFPP3 FRAMEWORK OR THE USE OR OTHER DEALINGS IN THE SFPP3 FRAMEWORK.
+
+
+-------------------------------------------------------------------------
+LICENSE FOR DIFFUSION_1DFV2n.sfpp3.html
+Rights for users
+
+This page describes the conditions of distribution of DIFFUSION_1DFV2n and its attached SFPP3 framework.
+
+DIFFUSION_1DFV2n was developed by INRA.
+
+HOW TO GET A COPY OF DIFFUSION_1DFV2n ?
+
+DIFFUSION_1DFV2n and its attached framework SFPP3 can be obtained free of charge from INRA (e.g. send an e-mail to the author) or from the Association of European Adhesives and Sealants Manufacturers.
+
+END-USER LICENSE TERMS
+
+"Software" means DIFFUSION_1DFV2n and the framework SPP3 used to run DIFFUSION_1DFV2n as a client/server application, in its distribution form (binaries executables, PERL, JAVASCRIPT and BATCH scripts), including related databases (XML format) and including any user/developer documentation (TXT, HTML, PDF, PPT documents).
+
+The Software is made available "AS IS" and without warranties of any kind either express or implied. In particular INRA does not warrant or make any representations:
+
+that the Software is of merchantable quality, suitable for your use, will function in any environment, or is fit for any other purpose;
+regarding the results of any use of the whole or any part of the Software;
+as to the accuracy, reliability or content of any data,information, service or goods obtained through any use of the whole or any part of the Software; or
+that use of the Software does not infringe the intellectual property rights of any third party.
+TO THE EXTENT PERMITTED BY LAW, INRA EXCLUDES ALL LIABILITY FOR ANY LOSS OR DAMAGE (INCLUDING DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL LOSS OR DAMAGE) ARISING FROM YOUR USE OF THE Software OR OTHERWISE IN CONNECTION WITH THIS LICENSE.
+
+You must recognize that the Software was developed by INRA in any report, paper or publication containing references to the Software or results generated by the Software.
+
+DISTRIBUTION CONDITION
+
+DIFFUSION_1DFV2n and its attached framework SFPP3 can be distributed only as a single package and must include all the related documentation, licenses, copyright, proprietary symbols and labels. In particular, the whole package may be distributed only under the terms of the SFPP3 license. All enquiries for a different distribution of this Software should be referred to INRA.
